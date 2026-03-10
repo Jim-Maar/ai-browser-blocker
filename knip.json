@@ -1,0 +1,4 @@
+{
+  "entry": ["src/background/index.ts", "src/content/index.ts", "src/popup/index.tsx", "src/blocked/index.tsx"],
+  "ignoreDependencies": ["@types/chrome"]
+}
